@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://devbase.yadavatech.com/storage/app/app-icon-1768484385.png" width="120" />
+  <img src="https://devbase.yadavatech.com/storage/app/app-icon-1768484385.png" width="120" />
 </p>
 
 <h1 align="center">YadavaTech</h1>
