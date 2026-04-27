@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yadavatech.com/assets/logo.png" width="120" alt="YadavaTech Logo"/>
+  <img src="https://yadavatech.com/favicon.png" width="120" alt="YadavaTech Logo"/>
 </p>
 
 <h1 align="center">YadavaTech</h1>
