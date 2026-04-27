@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://yadavatech.com"><b>Website</b></a> ·
-  <a href="https://devbase.yadavatech.com"><b>DevBase</b></a> ·
+  <a href="https://www.getdevbase.com"><b>DevBase</b></a> ·
   <a href="https://www.linkedin.com/company/yadavatech"><b>LinkedIn</b></a>
 </p>
 
@@ -35,7 +35,7 @@ We aim to simplify product development and help businesses launch faster with ro
 ### 🚀 DevBase
 A developer-first platform providing **production-ready starter kits, boilerplates, and scalable architectures** to accelerate development.
 
-🔗 https://devbase.yadavatech.com
+🔗 https://www.getdevbase.com
 
 ---
 
